@@ -1,5 +1,5 @@
 _repo: Macbeth_1533
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Regicides -- Drama'
 - !lcc 'PR'
 - !lcsh 'Scotland -- Kings and rulers -- Drama'
+- GITenberg
 title: Macbeth
 url: http://www.gutenberg.org/ebooks/1533
